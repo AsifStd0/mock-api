@@ -6,6 +6,8 @@
     ],
     "posts": [
       { "id": 1, "title": "Hello World", "author": "Alice" },
+      
+      { "id": 3, "title": "Asif", "author": "AFridi" },
       { "id": 2, "title": "My second post", "author": "Bob" }
     ]
   }
