@@ -2,12 +2,14 @@
     "users": [
       { "id": 1, "name": "Alice" },
       { "id": 2, "name": "Bob" },
-      { "id": 3, "name": "Charlie" }
+      { "id": 3, "name": "Charlie" } 
     ],
     "posts": [
       { "id": 1, "title": "Hello World", "author": "Alice" },
-      { "id": 3, "title": "Asif", "author": "AFridi", "category": "Tech" },  
-      { "id": 2, "title": "My second post", "author": "Bob" }
+      
+      { "id": 2, "title": "My second post", "author": "Bob" },
+    
+      { "id": 3, "title": "Asif", "author": "AFridi" }
     ]
   }
   
