@@ -1,0 +1,11 @@
+{
+    "users": [
+      { "id": 1, "name": "Alice" },
+      { "id": 2, "name": "Bob" }
+    ],
+    "posts": [
+      { "id": 1, "title": "Hello World", "author": "Alice" },
+      { "id": 2, "title": "My second post", "author": "Bob" }
+    ]
+  }
+  
