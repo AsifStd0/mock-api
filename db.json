@@ -1,7 +1,8 @@
 {
     "users": [
       { "id": 1, "name": "Alice" },
-      { "id": 2, "name": "Bob" }
+      { "id": 2, "name": "Bob" },
+      { "id": 3, "name": "Charlie" } 
     ],
     "posts": [
       { "id": 1, "title": "Hello World", "author": "Alice" },
